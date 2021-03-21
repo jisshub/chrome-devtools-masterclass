@@ -19,3 +19,7 @@
 
 Slow 3G - means slow loading of the page
 Fast 3G - fast loading of the page
+
+time- 1:25:29
+
+
